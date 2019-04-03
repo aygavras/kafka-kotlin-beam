@@ -25,7 +25,7 @@ plugins {
 
 apply plugin: 'kotlin'
 
-group 'com.trinity.beam'
+group 'com.aygavras.beam'
 version '0.1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
